@@ -1,0 +1,9 @@
+<me>
+    <name>Rasmus</name>
+    <age>34</age>
+    <hobbies>
+        <hobby>coding</hobby>
+        <hobby>eating</hobby>
+        <hobby>sleeping</hobby>
+    </hobbies>
+</me>
